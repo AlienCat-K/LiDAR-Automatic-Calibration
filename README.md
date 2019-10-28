@@ -1,8 +1,13 @@
 #T-FAC: Target-free Automatic Calibration of Multi-line LiDAR
 
 **Current version**: 1.0
-
 This source code provides a reference implementation for Target-free Automatic Calibration of Multi-line LiDAR.
+
+## 1. Introduction
+T-FAC (**T**arget **F**ree **A**utomatic **C**alibration) is an automatic calibration method for multi multi-line LiDAR which can use only 3D information.
+
+## 2. License
+This software is for non-commercial use only. Any modification based on this work must be open source and prohibited for commercial use.
 
 If you use this source code for your academic publication, please cite our TIP paper:
 
@@ -17,6 +22,6 @@ If you use this source code for your academic publication, please cite our TIP p
 	publisher={IEEE}
        }
 
-## 4. Dependencies
+## 3. Dependencies
 
-## 5. Usage
+## 4. Usage
