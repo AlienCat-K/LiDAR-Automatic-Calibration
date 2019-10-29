@@ -25,7 +25,13 @@ If you use this source code for your academic publication, please cite our TIM p
 ## 3. Dependencies
 
 ## 4. Usage
+
+For compiling the examples, you need CMake library. For building the examples you have to first build the project:
+	mkdir build  
+	cd build  
+	cmake ..  
+	make  
+To run the examples, you need some point cloud data:  
 **Test data:**  
-   L_LiDAR frames: https://drive.google.com/open?id=1r7EY0LDTWw2qpiJb1M-Rh3Tbtl_5vUfk (Copy these pcds into "../data/L-LiDAR-Frames")  
-   H_LiDAR_Maps:   https://drive.google.com/open?id=17mUeT8eyeIGJrGu8fT3_rG_ktYUXkcHX (Copy this pcd map into "../data/H-LiDAR-Map-data")  
+	L_LiDAR frames: https://drive.google.com/open?id=1r7EY0LDTWw2qpiJb1M-Rh3Tbtl_5vUfk (Copy these pcds into "../data/L-LiDAR-Frames")  	H_LiDAR_Maps:   https://drive.google.com/open?id=17mUeT8eyeIGJrGu8fT3_rG_ktYUXkcHX (Copy this pcd map into "../data/H-LiDAR-Map-data")  
 	
