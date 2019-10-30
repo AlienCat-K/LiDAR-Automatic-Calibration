@@ -9,6 +9,7 @@ In the multi-LiDAR system, LiDARs have their own local coordinates. To unify the
 
 T-FAC (**T**arget **F**ree **A**utomatic **C**alibration) is an automatic calibration method for multi multi-line LiDAR which only use 3D point cloud data.
 
+![image](https://github.com/AlienCat-K/LiDAR-Automatic-Calibration/blob/master/pic/calibration_result.png)
 ## 2. License
 This software is for non-commercial use only. Any modification based on this work must be open source and prohibited for commercial use.
 
