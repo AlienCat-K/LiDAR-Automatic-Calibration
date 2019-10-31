@@ -27,6 +27,8 @@ If you use this source code for your academic publication, please cite our TIM p
        }
 
 ## 3. Dependencies
+		PCL 1.7
+		Eigen
 
 ## 4. Usage
 
